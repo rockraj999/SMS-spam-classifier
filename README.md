@@ -27,8 +27,12 @@ fit the model and calculated accuracy and precision of each model. then selected
 6. Model improvement: applied some improvement techniques to increase the models precision and accuracy like hyperparameter tuning, voting classifier, feature selection etc.
 7. Model API: Created a web page so that any user can access and play with the product.
 
+ScreenShots of SMS spam classifier:
 
 ![Uber_analysis_dashboard](https://github.com/rockraj999/SMS-spam-classifier/blob/main/SpamOrNotSpamD.png)
+
+
+![Uber_analysis_dashboard](https://github.com/rockraj999/SMS-spam-classifier/blob/main/SpamOrNotSpamC.png)
  
    
   
